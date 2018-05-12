@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6225'
     url: http://www.gutenberg.org/2009/agents/6225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36419#The-White-Hecatomb-and-Other-Stories
 gutenberg_issued: '2011-06-13'
 gutenberg_type: Text
 identifiers:
